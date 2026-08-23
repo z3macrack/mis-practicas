@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Emanuel",
+        "monto": 6000,
+        "pago": true
+    },
+    {
+        "nombre": "Maria Belen",
+        "monto": 3000,
+        "pago": false
+    },
+    {
+        "nombre": "Janisa",
+        "monto": 6000,
+        "pago": false
+    },
+    {
+        "nombre": "Alexa",
+        "monto": 3000,
+        "pago": true
+    }
+]
