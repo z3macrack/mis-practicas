@@ -1,0 +1,5 @@
+archivo = open("notas.txt", "a")
+archivo.write("Hola, soy Emanuel\n")
+archivo.write("Estoy aprendiendo Python\n")
+archivo.close()
+print("Listo, guardado")
